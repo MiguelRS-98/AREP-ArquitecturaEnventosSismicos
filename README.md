@@ -26,7 +26,7 @@ Posteriormente de la recolecci´on de los datos del evento, se dirigirá al alma
 [Artículo - Arquitectura para prevención de eventos sísmicos](Archivos/Artículo-ProyectoAREP.pdf)
 
 ### :chart_with_upwards_trend: Presentación
-[Presentación- Arquitectura para prevención de eventos sísmicos](Archivos/Presentación-ProyectoAREP.pdf)
+[Presentación - Arquitectura para prevención de eventos sísmicos](Archivos/Presentación-ProyectoAREP.pdf)
 
 ## :bulb: Experimentación y Código
 ### :movie_camera: Experimento - Prototipo Base de Datos

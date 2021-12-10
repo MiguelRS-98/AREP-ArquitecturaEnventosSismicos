@@ -1,4 +1,4 @@
-## ARQUITECTURA PARA prevención de eventos sísmicos
+## ARQUITECTURA PARA PREVENCIÓN DE EVENTOS SÍSMICOS
 
 ### Autor
 - Miguel Angel Rodriguez Siachoque

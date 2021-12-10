@@ -29,4 +29,7 @@ Posteriormente de la recolecci´on de los datos del evento, se dirigirá al alma
 [Descarga video - Arquitectura para prevención de eventos sísmicos](Archivos/Experimento-ProyectoAREP.mp4)
 
 ### Ecuación Para Hallar Magnitud - Prototipo Base de Datos
-[Codigo Java Ecuación - Arquitectura para prevención de eventos sísmicos](Codigo/)
+[Código Java Ecuación - Arquitectura para prevención de eventos sísmicos](Codigo/src/main/java/mars/arem/app/sismo/Magnitude.JAVA)
+
+### Documentación Del Código - Prototipo Base de Datos
+[Documentación Código Java Ecuación - Arquitectura para prevención de eventos sísmicos](Codigo/JavaDoc)

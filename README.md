@@ -1,11 +1,13 @@
-## ARQUITECTURA PARA PREVENCIÓN DE EVENTOS SÍSMICOS
+# ARQUITECTURA PARA PREVENCIÓN DE EVENTOS SÍSMICOS
 
+## Información Publicación
 ### Autor
 - Miguel Angel Rodriguez Siachoque
 
 ### Fecha de publicación
 - 10 de Diciembre de 2021
 
+## Información General
 ### Descripcion
 Este proyecto hace un énfasis en la problemática que presenta la convivencia de las comunidades con los eventos sísmicos, por tal razón se la investigación toma entorno a la prevención de estos desastres naturales. Debido a la complejidad del tema se necesita tener claridad de algunos conceptos, para evitar eventuales fallas en el proceso.
 
@@ -19,12 +21,14 @@ Este objetivo se establecerá con ayuda de la nube, debido al almacenamiento de 
 
 Posteriormente de la recolecci´on de los datos del evento, se dirigirá al almacenamiento, esto se realiza con el fin de poder notificar con una alerta a las zonas que pueden sufrir daños. La propuesta de valor se podrá visualizar en el mapa, donde se registrará el punto del epicentro, la distancia que recorre en las ondas sísmicas, con sus datos correspondientes.
 
+## Información Investigación
 ### Artículo
 [Artículo - Arquitectura para prevención de eventos sísmicos](Archivos/Artículo-ProyectoAREP.pdf)
 
 ### Presentación
 [Presentación- Arquitectura para prevención de eventos sísmicos](Archivos/Presentación-ProyectoAREP.pdf)
 
+## Experimentación y Código
 ### Experimento - Prototipo Base de Datos
 [Descarga video - Arquitectura para prevención de eventos sísmicos](Archivos/Experimento-ProyectoAREP.mp4)
 

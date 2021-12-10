@@ -37,3 +37,7 @@ Posteriormente de la recolecci´on de los datos del evento, se dirigirá al alma
 
 ### :page_facing_up: Documentación Del Código - Prototipo Base de Datos
 [Documentación Código Java Ecuación - Arquitectura para prevención de eventos sísmicos](Codigo/JavaDoc)
+
+## :bulb: Información Repositorio
+### :balance_scale: Licencia Repositorio
+[Licencia GPL-3.0 - Arquitectura para prevención de eventos sísmicos](LICENSE.txt)
